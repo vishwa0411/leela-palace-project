@@ -1,0 +1,33 @@
+.v-img1
+{
+	background-image:url("Images/leelapic1.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100%;
+	width:100%;
+}
+.firstcont .container
+{
+	margin-top:-120px;
+background-color:white;
+}
+.col-md-2{
+	border:0.5px solid black;
+    padding:10px 20px 10px 20px;
+}
+.edit1{
+	padding-top:10px;
+	padding-left:50px;
+}
+.edit6{
+	height:90px;
+	width:160px;
+	margin-top:-30px;
+}
+.edit9{
+	margin-left:60px;
+	margin-top:150px;
+}
+.place1{
+	color:white;
+}
